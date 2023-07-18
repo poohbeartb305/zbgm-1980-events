@@ -1,0 +1,6045 @@
+{
+  "startingSeason": 1975,
+  "teams": [
+    {
+      "region": "Atlanta",
+      "name": "Braves",
+      "abbrev": "ATL",
+      "pop": 1.3,
+      "stadiumCapacity": 52870,
+      "tid": 0,
+      "cid": 1,
+      "did": 3,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126384616060768316/atlanta75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#BA0C2F",
+        "#003087"
+      ]
+    },
+    {
+      "region": "Baltimore",
+      "name": "Orioles",
+      "abbrev": "BAL",
+      "pop": 1.6,
+      "stadiumCapacity": 52137,
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126384664639184916/baltimore75.png",
+      "jersey": "baseball4:hat3",
+      "colors": [
+        "#161618",
+        "#FFFFFF",
+        "#FF671F"
+      ]
+    },
+    {
+      "region": "Boston",
+      "name": "Red Sox",
+      "abbrev": "BOS",
+      "pop": 3.2,
+      "stadiumCapacity": 33379,
+      "tid": 2,
+      "cid": 0,
+      "did": 0,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126384694431330315/boston75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#CB0729",
+        "#CB0729"
+      ]
+    },
+    {
+      "region": "California",
+      "name": "Angels",
+      "abbrev": "CAL",
+      "pop": 8.9,
+      "stadiumCapacity": 43202,
+      "tid": 3,
+      "cid": 0,
+      "did": 1,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126384722625441863/california75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#021B2C",
+        "#BF0D3E"
+      ]
+    },
+    {
+      "region": "Chicago",
+      "name": "Cubs",
+      "abbrev": "CHI",
+      "pop": 7.1,
+      "stadiumCapacity": 37741,
+      "tid": 4,
+      "cid": 1,
+      "did": 2,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126384781530255381/chicago75.png",
+      "jersey": "baseball3:hat",
+      "colors": [
+        "#FFFFFF",
+        "#002F6C",
+        "#002F6C"
+      ]
+    },
+    {
+      "region": "Chicago",
+      "name": "White Sox",
+      "abbrev": "CWS",
+      "pop": 7.1,
+      "stadiumCapacity": 44492,
+      "tid": 5,
+      "cid": 0,
+      "did": 1,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126384924472131685/chicagowhitesox75.png",
+      "jersey": "baseball3:hat",
+      "colors": [
+        "#FFFFFF",
+        "#C91732",
+        "#C91732"
+      ]
+    },
+    {
+      "region": "Cincinnati",
+      "name": "Reds",
+      "abbrev": "CIN",
+      "pop": 1.2,
+      "stadiumCapacity": 51786,
+      "tid": 6,
+      "cid": 1,
+      "did": 3,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126384948350287902/cincinnati75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#D50032",
+        "#D50032"
+      ]
+    },
+    {
+      "region": "Cleveland",
+      "name": "Indians",
+      "abbrev": "CLE",
+      "pop": 1.8,
+      "stadiumCapacity": 76966,
+      "tid": 7,
+      "cid": 0,
+      "did": 0,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385048585777172/cleveland75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#001E3D",
+        "#CC092F"
+      ]
+    },
+    {
+      "region": "Detroit",
+      "name": "Tigers",
+      "abbrev": "DET",
+      "pop": 3.8,
+      "stadiumCapacity": 54226,
+      "tid": 8,
+      "cid": 0,
+      "did": 0,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385092185567263/detroit75.png",
+      "jersey": "baseball2:hat",
+      "colors": [
+        "#FFFFFF",
+        "#182D55",
+        "#182D55"
+      ]
+    },
+    {
+      "region": "Houston",
+      "name": "Astros",
+      "abbrev": "HOU",
+      "pop": 2.0,
+      "stadiumCapacity": 45101,
+      "tid": 9,
+      "cid": 1,
+      "did": 3,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385126503366687/houston75.png",
+      "jersey": "baseball2:hat3",
+      "colors": [
+        "#FFFFFF",
+        "#FA4616",
+        "#041E42"
+      ]
+    },
+    {
+      "region": "Kansas City",
+      "name": "Royals",
+      "abbrev": "KCR",
+      "pop": 1.0,
+      "stadiumCapacity": 40625,
+      "tid": 10,
+      "cid": 0,
+      "did": 1,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385155746041886/kansascity75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#67ACE6",
+        "#041E42",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "region": "Los Angeles",
+      "name": "Dodgers",
+      "abbrev": "LAD",
+      "pop": 8.9,
+      "stadiumCapacity": 56000,
+      "tid": 11,
+      "cid": 1,
+      "did": 3,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385187798908938/losangeles75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#0E62A0",
+        "#0E62A0"
+      ]
+    },
+    {
+      "region": "Milwaukee",
+      "name": "Brewers",
+      "abbrev": "MIL",
+      "pop": 1.2,
+      "stadiumCapacity": 47500,
+      "tid": 12,
+      "cid": 0,
+      "did": 0,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385394091577374/milwaukee75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#002878",
+        "#FFD451"
+      ]
+    },
+    {
+      "region": "Minnesota",
+      "name": "Twins",
+      "abbrev": "MIN",
+      "pop": 1.7,
+      "stadiumCapacity": 45919,
+      "tid": 13,
+      "cid": 0,
+      "did": 1,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385423179063388/minnesota75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#002942",
+        "#BE0F34"
+      ]
+    },
+    {
+      "region": "Montreal",
+      "name": "Expos",
+      "abbrev": "MTL",
+      "pop": 2.7,
+      "stadiumCapacity": 28456,
+      "tid": 14,
+      "cid": 1,
+      "did": 2,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385459912781854/montreal75.png",
+      "jersey": "baseball:hat3",
+      "colors": [
+        "#FFFFFF",
+        "#003087",
+        "#E4002B"
+      ]
+    },
+    {
+      "region": "New York",
+      "name": "Mets",
+      "abbrev": "NYM",
+      "pop": 15.8,
+      "stadiumCapacity": 55300,
+      "tid": 15,
+      "cid": 1,
+      "did": 2,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385489658781736/newyorkmets75.png",
+      "jersey": "baseball3:hat",
+      "colors": [
+        "#FFFFFF",
+        "#003087",
+        "#FF6720"
+      ]
+    },
+    {
+      "region": "New York",
+      "name": "Yankees",
+      "abbrev": "NYY",
+      "pop": 15.8,
+      "stadiumCapacity": 55300,
+      "tid": 16,
+      "cid": 0,
+      "did": 0,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385532906242138/newyorkyankees75.png",
+      "jersey": "baseball3:hat",
+      "colors": [
+        "#FFFFFF",
+        "#002A5C",
+        "#002A5C"
+      ]
+    },
+    {
+      "region": "Oakland",
+      "name": "Athletics",
+      "abbrev": "OAK",
+      "pop": 2.5,
+      "stadiumCapacity": 50000,
+      "tid": 17,
+      "cid": 0,
+      "did": 1,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385563965063269/oakland75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#005841",
+        "#FFCD00"
+      ]
+    },
+    {
+      "region": "Philadelphia",
+      "name": "Phillies",
+      "abbrev": "PHI",
+      "pop": 4.4,
+      "stadiumCapacity": 56581,
+      "tid": 18,
+      "cid": 1,
+      "did": 2,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385597855039518/philadelphia75.png",
+      "jersey": "baseball3:hat",
+      "colors": [
+        "#FFFFFF",
+        "#BA0C2F",
+        "#BA0C2F"
+      ]
+    },
+    {
+      "region": "Pittsburgh",
+      "name": "Pirates",
+      "abbrev": "PIT",
+      "pop": 1.8,
+      "stadiumCapacity": 50235,
+      "tid": 19,
+      "cid": 1,
+      "did": 2,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385636430057482/pittsburgh75.png",
+      "jersey": "baseball:hat3",
+      "colors": [
+        "#FFFFFF",
+        "#FFC72C",
+        "#161618"
+      ]
+    },
+    {
+      "region": "San Diego",
+      "name": "Padres",
+      "abbrev": "SDP",
+      "pop": 1.4,
+      "stadiumCapacity": 47634,
+      "tid": 20,
+      "cid": 1,
+      "did": 3,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385664435429406/sandiego75.png",
+      "jersey": "baseball:hat3",
+      "colors": [
+        "#FFFFFF",
+        "#693F23",
+        "#FFCD00"
+      ]
+    },
+    {
+      "region": "San Francisco",
+      "name": "Giants",
+      "abbrev": "SFG",
+      "pop": 2.5,
+      "stadiumCapacity": 59080,
+      "tid": 21,
+      "cid": 1,
+      "did": 3,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385715962454106/sanfrancisco75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#161618",
+        "#E35205"
+      ]
+    },
+    {
+      "region": "St. Louis",
+      "name": "Cardinals",
+      "abbrev": "STL",
+      "pop": 1.8,
+      "stadiumCapacity": 50126,
+      "tid": 22,
+      "cid": 1,
+      "did": 2,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385744970256454/stlouis75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#CB102E",
+        "#CB102E"
+      ]
+    },
+    {
+      "region": "Texas",
+      "name": "Rangers",
+      "abbrev": "TEX",
+      "pop": 2.2,
+      "stadiumCapacity": 35698,
+      "tid": 23,
+      "cid": 0,
+      "did": 1,
+      "imgURL": "https://cdn.discordapp.com/attachments/1126281868799655966/1126385794316259348/texas75.png",
+      "jersey": "baseball:hat",
+      "colors": [
+        "#FFFFFF",
+        "#E70023",
+        "#0030A2"
+      ]
+    }
+  ],
+  "gameAttributes": {
+    "confs": [
+      {
+        "cid": 0,
+        "name": "American League"
+      },
+      {
+        "cid": 1,
+        "name": "National League"
+      }
+    ],
+    "divs": [
+      {
+        "cid": 0,
+        "did": 0,
+        "name": "AL East"
+      },
+      {
+        "cid": 0,
+        "did": 1,
+        "name": "AL West"
+      },
+      {
+        "cid": 1,
+        "did": 2,
+        "name": "NL East"
+      },
+      {
+        "cid": 1,
+        "did": 3,
+        "name": "NL West"
+      }
+    ],
+    "balkFactor": 1,
+    "contactFactor": 0.983,
+    "flyFactor": 0.98,
+    "foulFactor": 0.98,
+    "groundFactor": 1,
+    "hitByPitchFactor": 0.84,
+    "hitFactor": 0.972,
+    "lineFactor": 0.98,
+    "passedBallFactor": 0.9,
+    "powerFactor": 0.98,
+    "stealFactor": 0.98,
+    "strikeFactor": 0.97,
+    "swingFactor": 1,
+    "throwOutFactor": 1,
+    "wildPitchFactor": 1,
+    "dh": [
+      0
+    ],
+    "draftAges": [
+      18,
+      22
+    ],
+    "draftPickAutoContract": true,
+    "draftPickAutoContractPercent": 10,
+    "draftPickAutoContractRounds": 2,
+    "draftType": "noLottery",
+    "homeCourtAdvantage": 1,
+    "groupScheduleSeries": true,
+    "injuryRate": 0.00039,
+    "luxuryPayroll": 135000,
+    "luxuryTax": 1.5,
+    "maxContract": 10000,
+    "maxContractLength": 5,
+    "maxRosterSize": 40,
+    "minContract": 500,
+    "minContractLength": 1,
+    "minPayroll": 80000,
+    "minRetireAge": 26,
+    "minRosterSize": 35,
+    "numDraftRounds": 5,
+    "numGames": 162,
+    "numPlayoffByes": 0,
+    "numGamesConf": null,
+    "numGamesPlayoffSeries": [
+      5,
+      7
+    ],
+    "numPeriods": 9,
+    "numSeasonsFutureDraftPicks": 4,
+    "numGamesDiv": 90,
+    "playoffsNumTeamsDiv": 1,
+    "aiTradesFactor": 0.55,
+    "tradeDeadline": 0.6,
+    "allStarGame": 0.7,
+    "allStarNum": 24,
+    "allStarType": "byConf",
+    "rookieContractLengths": [
+      3,
+      2
+    ],
+    "rookiesCanRefuse": true,
+    "salaryCap": 100000,
+    "salaryCapType": "none",
+    "softCapTradeSalaryMatch": 125
+  },
+  "scheduledEvents": [
+    {
+      "type": "expansionDraft",
+      "season": 1976,
+      "phase": 4,
+      "id": 0,
+      "info": {
+        "numProtectedPlayers": 12,
+        "teams": [
+          {
+            "region": "Seattle",
+            "name": "Mariners",
+            "abbrev": "SEA",
+            "pop": 1.7,
+            "stadiumCapacity": 59059,
+            "tid": 24,
+            "cid": 0,
+            "did": 1,
+            "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720251547717692/seattle77.png",
+            "jersey": "baseball:hat",
+            "colors": [
+              "#FFFFFF",
+              "#002878",
+              "#FFCC00"
+            ]
+          },
+          {
+            "region": "Toronto",
+            "name": "Blue Jays",
+            "abbrev": "TOR",
+            "pop": 2.8,
+            "stadiumCapacity": 38522,
+            "tid": 25,
+            "cid": 0,
+            "did": 0,
+            "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720615042883676/toronto77.png",
+            "jersey": "baseball:hat",
+            "colors": [
+              "#FFFFFF",
+              "#002F70",
+              "#006CAB"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1992,
+      "phase": 4,
+      "id": 1,
+      "info": {
+        "numProtectedPlayers": 12,
+        "teams": [
+          {
+            "region": "Colorado",
+            "name": "Rockies",
+            "abbrev": "COL",
+            "pop": 1.6,
+            "stadiumCapacity": 76273,
+            "tid": 26,
+            "cid": 1,
+            "did": 3,
+            "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718078793396265/colorado93.png",
+            "jersey": "baseball3:hat",
+            "colors": [
+              "#FFFFFF",
+              "#24125F",
+              "#161618"
+            ]
+          },
+          {
+            "region": "Florida",
+            "name": "Marlins",
+            "abbrev": "FLA",
+            "pop": 4.2,
+            "stadiumCapacity": 43909,
+            "tid": 27,
+            "cid": 1,
+            "did": 2,
+            "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718273035808788/florida93.png",
+            "jersey": "baseball3:hat",
+            "colors": [
+              "#FFFFFF",
+              "#009CA6",
+              "#009CA6"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1997,
+      "phase": 4,
+      "id": 2,
+      "info": {
+        "numProtectedPlayers": 12,
+        "teams": [
+          {
+            "region": "Arizona",
+            "name": "Diamondbacks",
+            "abbrev": "ARI",
+            "pop": 2.7,
+            "stadiumCapacity": 48500,
+            "tid": 28,
+            "cid": 1,
+            "did": 5,
+            "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714125141782528/arizona98.png",
+            "jersey": "baseball3:hat",
+            "colors": [
+              "#FFFFFF",
+              "#5F249F",
+              "#005F61"
+            ]
+          },
+          {
+            "region": "Tampa Bay",
+            "name": "Devil Rays",
+            "abbrev": "TBR",
+            "pop": 1.9,
+            "stadiumCapacity": 45369,
+            "tid": 29,
+            "cid": 0,
+            "did": 0,
+            "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720400596500560/tampabay98.png",
+            "jersey": "baseball:hat",
+            "colors": [
+              "#FFFFFF",
+              "#172678",
+              "#161618"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 3,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 49033
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 4,
+      "info": {
+        "tid": 28,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714157102370936/arizona07.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#A6192E",
+          "#D9C89D"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 5,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 48711
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 6,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 48652
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 7,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 48633
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 8,
+      "info": {
+        "tid": 28,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714185724309607/arizona12.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 9,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 48519
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 10,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 48686
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 11,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 48618
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 12,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 48418
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 13,
+      "info": {
+        "tid": 28,
+        "stadiumCapacity": 48405,
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#161618",
+          "#A6192E"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 14,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 51556,
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#BA0C2F",
+          "#003087"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 15,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52194
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "id": 16,
+      "info": {
+        "tid": 0,
+        "jersey": "baseball:hat"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 17,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52785
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "id": 18,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52934
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 19,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 53046,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714225838624798/atlanta85.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 20,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52006
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 21,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52003,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714250400477445/atlanta87.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#BA0C2F",
+          "#002855"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 22,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52007
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 23,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52013
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 24,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52710
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 25,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 52769
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 26,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 50528
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 27,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 49714
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 28,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 50096
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 29,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 49473
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 30,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 49473
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 31,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 41149
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 32,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 41084
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1978,
+      "phase": 0,
+      "id": 33,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 52860
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "id": 34,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 52696
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 35,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 53208
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 35,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 54062
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 37,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 54076
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 38,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 54002
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 39,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 54017
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 40,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 53317
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 41,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 48041,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714293765373982/baltimore92.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 42,
+      "info": {
+        "tid": 1,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714315428970537/baltimore95.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 43,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 53317
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 44,
+      "info": {
+        "tid": 1,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714357355217038/baltimore98.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 45,
+      "info": {
+        "tid": 1,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714392000172092/baltimore99.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 46,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 48190
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 47,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 48290
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 48,
+      "info": {
+        "tid": 1,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714425319739532/baltimore09.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 49,
+      "info": {
+        "tid": 1,
+        "stadiumCapacity": 45971
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 50,
+      "info": {
+        "tid": 1,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714465933176913/baltimore19.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 51,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 33437,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714619792838756/boston76.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 52,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 33513
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 53,
+      "info": {
+        "tid": 2,
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#CB0729",
+          "#CB0729"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 54,
+      "info": {
+        "tid": 2,
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#CB0729",
+          "#CB0729"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 55,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 33536
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "id": 56,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 33465
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 57,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 33583
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 58,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 34182
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 59,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 34171
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 60,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 33925
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 61,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 34218
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 62,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 33455
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 63,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 33577
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 64,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 34482
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 65,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 34679
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 66,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 35692
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 67,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 36109
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 68,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 36945
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 69,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 36984,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714640051306516/boston09.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 70,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 36986
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 71,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 37065
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 72,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 37067
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 73,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 37071
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 74,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 37227
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 75,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 37497
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 76,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 37281
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 77,
+      "info": {
+        "tid": 2,
+        "stadiumCapacity": 37305
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 78,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 43250
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "id": 79,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 65158
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 80,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 64573,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714737115893960/california86.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 81,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 64593
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 82,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714757009481818/california93.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 83,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714821928910939/california94.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 84,
+      "info": {
+        "tid": 3,
+        "region": "Anaheim",
+        "name": "Angels",
+        "abbrev": "ANA",
+        "stadiumCapacity": 33851,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714857437909022/anaheim97.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#13294B",
+          "#DA291C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 85,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45050
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 86,
+      "info": {
+        "tid": 3,
+        "region": "Los Angeles",
+        "name": "Angels",
+        "abbrev": "LAA",
+        "stadiumCapacity": 45050,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714884365340703/losangeles02.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#BA0C2F",
+          "#BA0C2F"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 87,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45262
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 88,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45281
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 89,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45389
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 90,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45957
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 91,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45483
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 92,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45957
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 93,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45493
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 94,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45477
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 95,
+      "info": {
+        "tid": 3,
+        "stadiumCapacity": 45517
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 96,
+      "info": {
+        "tid": 4,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127714953109962873/chicago79.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 97,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 37272
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 98,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 38040
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 99,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 38143
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 100,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 39600
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 101,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 38711
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 102,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 38765
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 103,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 38884
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 104,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 39059
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 105,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 39111
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 106,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 39345
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 107,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 39538
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 108,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41118
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 109,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41160
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 110,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41210
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 111,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41159
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 112,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41009
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 113,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41019
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 114,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41072
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 115,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 40929
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 116,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41268
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 117,
+      "info": {
+        "tid": 4,
+        "stadiumCapacity": 41649
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 118,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127715029236600883/chicagowhitesox76.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#002A5C",
+          "#C91732"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 119,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127715086232997930/chicagowhitesox82.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "id": 120,
+      "info": {
+        "tid": 5,
+        "stadiumCapacity": 43695
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 121,
+      "info": {
+        "tid": 5,
+        "stadiumCapacity": 44087
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 122,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127715104364957797/chicagowhitesox87.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 123,
+      "info": {
+        "tid": 5,
+        "stadiumCapacity": 43931
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 124,
+      "info": {
+        "tid": 5,
+        "stadiumCapacity": 43951
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 125,
+      "info": {
+        "tid": 5,
+        "stadiumCapacity": 44321,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127715120697585764/chicagowhitesox91.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#161618",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 126,
+      "info": {
+        "tid": 5,
+        "stadiumCapacity": 47522
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 127,
+      "info": {
+        "tid": 5,
+        "stadiumCapacity": 47098
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 128,
+      "info": {
+        "tid": 5,
+        "stadiumCapacity": 40615
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1984,
+      "phase": 0,
+      "id": 129,
+      "info": {
+        "tid": 6,
+        "stadiumCapacity": 52392
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 130,
+      "info": {
+        "tid": 6,
+        "stadiumCapacity": 52952
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 131,
+      "info": {
+        "tid": 6,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127715168353263616/cincinnati93.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#D50032",
+          "#D50032"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 132,
+      "info": {
+        "tid": 6,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127715208459190282/cincinnati99.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 133,
+      "info": {
+        "tid": 0,
+        "stadiumCapacity": 40007
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 134,
+      "info": {
+        "tid": 6,
+        "stadiumCapacity": 42271
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 135,
+      "info": {
+        "tid": 6,
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#D50032",
+          "#D50032"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 136,
+      "info": {
+        "tid": 6,
+        "stadiumCapacity": 42319
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 0,
+      "id": 137,
+      "info": {
+        "tid": 6,
+        "stadiumCapacity": 43500
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 138,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 76713
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 139,
+      "info": {
+        "tid": 7,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127715240910532658/cleveland79.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 140,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 76685
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 141,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 74208
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 142,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 74483
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 143,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 42865,
+        "jersey": "baseball2:hat3",
+        "colors": [
+          "#FFFFFF",
+          "#CC092F",
+          "#CC092F"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 144,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 43368
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 145,
+      "info": {
+        "tid": 7,
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#001E3D",
+          "#CC092F"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 146,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 43389
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 147,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 43405
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 148,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 43415
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 149,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 43545
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 150,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 45199
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 151,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 45569
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 152,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 43441
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 153,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 43429,
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#001E3D",
+          "#CC092F"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 154,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 42241,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127715265203941386/cleveland13.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 155,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 42487
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 156,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 36856
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 157,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 36856
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 158,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 35225
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 159,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 35051
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 0,
+      "id": 160,
+      "info": {
+        "tid": 7,
+        "stadiumCapacity": 34830
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 0,
+      "id": 160,
+      "info": {
+        "tid": 7,
+        "name": "Cleveland",
+        "region": "Guardians",
+        "abbrev": "CLE"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 162,
+      "info": {
+        "tid": 26,
+        "stadiumCapacity": 50200
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 163,
+      "info": {
+        "tid": 26,
+        "stadiumCapacity": 50200
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 164,
+      "info": {
+        "tid": 26,
+        "stadiumCapacity": 50381
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 165,
+      "info": {
+        "tid": 26,
+        "stadiumCapacity": 50445
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 166,
+      "info": {
+        "tid": 26,
+        "stadiumCapacity": 50490
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 167,
+      "info": {
+        "tid": 26,
+        "stadiumCapacity": 50398
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 168,
+      "info": {
+        "tid": 26,
+        "imgURL": "https://cdn.discordapp.com/attachments/1128174806081208340/1128174855704031332/colorado17.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 168,
+      "info": {
+        "tid": 26,
+        "stadiumCapacity": 46897
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1978,
+      "phase": 0,
+      "id": 170,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 53676
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "id": 171,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 52067
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 172,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 52687
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 173,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 52806
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 174,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 52416
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 175,
+      "info": {
+        "tid": 8,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718140512579614/detroit94.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 176,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": "46,945"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 177,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 40120
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 178,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 41070
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 179,
+      "info": {
+        "tid": 8,
+        "imgURL": "https://cdn.discordapp.com/attachments/1128174806081208340/1128446758352068709/detroit06.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 180,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 41000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 181,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 41255
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 182,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 41681
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 183,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 41574
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 184,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 41297,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718209076854914/detroit16.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 185,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 41299
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 186,
+      "info": {
+        "tid": 8,
+        "stadiumCapacity": 41083
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 187,
+      "info": {
+        "tid": 27,
+        "stadiumCapacity": 47662
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 188,
+      "info": {
+        "tid": 27,
+        "stadiumCapacity": 46238
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 189,
+      "info": {
+        "tid": 27,
+        "stadiumCapacity": 41855
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 190,
+      "info": {
+        "tid": 27,
+        "stadiumCapacity": 42531
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 191,
+      "info": {
+        "tid": 27,
+        "stadiumCapacity": 35521
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 192,
+      "info": {
+        "tid": 27,
+        "stadiumCapacity": 36331
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 193,
+      "info": {
+        "tid": 27,
+        "stadiumCapacity": 38560
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 194,
+      "info": {
+        "tid": 27,
+        "region": "Miami",
+        "name": "Marlins",
+        "abbrev": "MIA",
+        "stadiumCapacity": 36742,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718313661837412/miami12.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#161618",
+          "#F9423A"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 195,
+      "info": {
+        "tid": 27,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718349531521144/miami19.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#161618",
+          "#00A3E0"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 196,
+      "info": {
+        "tid": 9,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718386865029202/houston77.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 197,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 47690
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 198,
+      "info": {
+        "tid": 9,
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#041E42",
+          "#FA4616"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 199,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 54816
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 200,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 53821
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 201,
+      "info": {
+        "tid": 9,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718412441882644/houston94.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#041E42",
+          "#89734C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 202,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 54370,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718443983044638/houston95.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 203,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 40950,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718472084897862/houston00.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#161618",
+          "#9A3324"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 204,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 40976
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 205,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 40963
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 206,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 40981
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 207,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 42060,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718496197951519/houston13.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#EB6F21",
+          "#002D62"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 208,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 41574
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 209,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 41676
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 210,
+      "info": {
+        "tid": 9,
+        "stadiumCapacity": 41168
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 211,
+      "info": {
+        "tid": 10,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718525360943145/kansascity79.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 212,
+      "info": {
+        "tid": 10,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718562702839878/kansascity86.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 213,
+      "info": {
+        "tid": 10,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718587965116497/kansascity93.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 214,
+      "info": {
+        "tid": 10,
+        "stadiumCapacity": 40793
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 215,
+      "info": {
+        "tid": 10,
+        "stadiumCapacity": 40785
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 216,
+      "info": {
+        "tid": 10,
+        "stadiumCapacity": 37840
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 217,
+      "info": {
+        "tid": 10,
+        "stadiumCapacity": 37903
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 218,
+      "info": {
+        "tid": 10,
+        "imgURL": "https://cdn.discordapp.com/attachments/1128174806081208340/1128515492127195207/kansascity19.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 219,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718885819416618/losangeles79.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 220,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718921299050676/losangeles12.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 221,
+      "info": {
+        "tid": 12,
+        "stadiumCapacity": 52293
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1978,
+      "phase": 0,
+      "id": 222,
+      "info": {
+        "tid": 12,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718961996382218/milwaukee78.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#0046AE",
+          "#FFD451"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 223,
+      "info": {
+        "tid": 12,
+        "stadiumCapacity": 54187
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 224,
+      "info": {
+        "tid": 12,
+        "stadiumCapacity": 53192
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 225,
+      "info": {
+        "tid": 12,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127718992656732200/milwaukee94.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#002144",
+          "#00694E"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 226,
+      "info": {
+        "tid": 12,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719021278658580/milwaukee00.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#13294B",
+          "#89734C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 227,
+      "info": {
+        "tid": 12,
+        "stadiumCapacity": 41900
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 228,
+      "info": {
+        "tid": 12,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719041214197761/milwaukee20.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#13294B",
+          "#FFD451"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 229,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719111544279251/minnesota76.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 230,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 54711
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1984,
+      "phase": 0,
+      "id": 231,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 55122
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 232,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 55244
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 233,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719137620275260/minnesota87.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#002942",
+          "#BE0F34"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 234,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 55883
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 235,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719165646622923/minnesota94.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 236,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 56783
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 237,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 44457
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 238,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 48678
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 239,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 45423
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 240,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719196055322744/minnesota10.png",
+        "stadiumCapacity": 39504
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 241,
+      "info": {
+        "tid": 13,
+        "imgURL": 39021
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 242,
+      "info": {
+        "tid": 13,
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#002942",
+          "#BE0F34"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 243,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 38871
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 244,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 38885
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 245,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 38649
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 246,
+      "info": {
+        "tid": 13,
+        "stadiumCapacity": 38544
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2022,
+      "phase": 0,
+      "id": 247,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://cdn.discordapp.com/attachments/1128174806081208340/1128528046165594273/minnesota22.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 248,
+      "info": {
+        "tid": 14,
+        "stadiumCapacity": 60000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 249,
+      "info": {
+        "tid": 14,
+        "stadiumCapacity": 46000,
+        "imgURL": "https://cdn.discordapp.com/attachments/1128174806081208340/1128529442315186207/montreal92.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#003087",
+          "#E4002B"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 250,
+      "info": {
+        "region": "Washington",
+        "name": "Nationals",
+        "abbrev": "WAS",
+        "pop": 4.1,
+        "stadiumCapacity": 45596,
+        "tid": 14,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720765849096253/washington05.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#BA0C2F",
+          "#041E42"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 251,
+      "info": {
+        "tid": 14,
+        "stadiumCapacity": 41888
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 252,
+      "info": {
+        "tid": 14,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720803471982762/washington11.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#BA0C2F",
+          "#041E42"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 253,
+      "info": {
+        "tid": 14,
+        "stadiumCapacity": 41313
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 254,
+      "info": {
+        "tid": 14,
+        "stadiumCapacity": 41339
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2022,
+      "phase": 0,
+      "id": 255,
+      "info": {
+        "tid": 14,
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#BA0C2F",
+          "#041E42"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 256,
+      "info": {
+        "tid": 15,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719229580382360/newyorkmets81.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 257,
+      "info": {
+        "tid": 15,
+        "stadiumCapacity": 55601
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 258,
+      "info": {
+        "tid": 15,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719255878684742/newyorkmets93.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 259,
+      "info": {
+        "tid": 15,
+        "stadiumCapacity": 55777
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 260,
+      "info": {
+        "tid": 15,
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#003087",
+          "#FF6720"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 261,
+      "info": {
+        "tid": 15,
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#003087",
+          "#FF6720"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 262,
+      "info": {
+        "tid": 15,
+        "stadiumCapacity": 56749
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 263,
+      "info": {
+        "tid": 15,
+        "stadiumCapacity": 56749
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 264,
+      "info": {
+        "tid": 15,
+        "stadiumCapacity": 57369
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 265,
+      "info": {
+        "tid": 15,
+        "stadiumCapacity": 57333
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 266,
+      "info": {
+        "tid": 15,
+        "stadiumCapacity": 41800
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "id": 267,
+      "info": {
+        "tid": 15,
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#003087",
+          "#FF6720"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 268,
+      "info": {
+        "tid": 15,
+        "stadiumCapacity": 41922,
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#003087",
+          "#FF6720"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 269,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 41922
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 270,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 57145
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "id": 271,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 57545
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 272,
+      "info": {
+        "tid": 16,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719293140877393/newyorkyankees81.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 273,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 57478
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 274,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 56936
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 275,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 50287
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 276,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 50291
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 277,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 49642
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 278,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 49638
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 279,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 49469
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 280,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 47422
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 281,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 47309
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 282,
+      "info": {
+        "tid": 16,
+        "stadiumCapacity": 46537
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 283,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 49649
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 284,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 50255
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 285,
+      "info": {
+        "tid": 17,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719333087416370/oakland82.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#005841",
+          "#FFCD00"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "id": 286,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 50219
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 287,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 50255,
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#005841",
+          "#FFCD00"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 288,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 50219
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 289,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 49219
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 290,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 50219
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 291,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 49219
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 292,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 48219
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 293,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 47450
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 294,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 47313
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 295,
+      "info": {
+        "tid": 17,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719355132682260/oakland93.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 296,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 39875
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 297,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 43662
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 298,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 34077
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 299,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 35067
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 300,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 47170
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 301,
+      "info": {
+        "tid": 17,
+        "stadiumCapacity": 46867
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 302,
+      "info": {
+        "tid": 18,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719388389326878/philadelphia76.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 303,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 58651
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 304,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 65454,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719412485603388/philadelphia81.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 305,
+      "info": {
+        "tid": 18,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719447608692825/philadelphia82.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "id": 306,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 66507
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 307,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 66744
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 308,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 66271
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 309,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 64538
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 310,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 62382
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 311,
+      "info": {
+        "tid": 18,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719497416048660/philadelphia92.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 312,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 62586
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 313,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 62530
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 314,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 62136
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 315,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 62363
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 316,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 61831
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 317,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 43500
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 318,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 43308
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 319,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 43647
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 320,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 43651
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 321,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 43035
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 322,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 42792,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719547617681498/philadelphia19.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2023,
+      "phase": 0,
+      "id": 323,
+      "info": {
+        "tid": 18,
+        "stadiumCapacity": 42901
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 324,
+      "info": {
+        "tid": 19,
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#FFC72C",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 325,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 50364
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "id": 326,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 50230,
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#FFC72C",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 327,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 54598
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "id": 328,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 54490
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1984,
+      "phase": 0,
+      "id": 329,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 58365
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 330,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 58429
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 331,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 58437
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 332,
+      "info": {
+        "tid": 19,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719580303888457/pittsburgh87.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 333,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 58727
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 334,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 58729
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 335,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 47952
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 336,
+      "info": {
+        "tid": 19,
+        "imgURL": "https://cdn.discordapp.com/attachments/1128174806081208340/1128844212025163897/pittsburgh97.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 337,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 37898
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 338,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 38496
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 339,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 38362
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 340,
+      "info": {
+        "tid": 19,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719608447672461/pittsburgh97.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 341,
+      "info": {
+        "tid": 19,
+        "stadiumCapacity": 38747
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 342,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 47491
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "id": 343,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 48460
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 344,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 51362
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "id": 345,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 48443
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 346,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 51362
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "id": 347,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 51319
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1984,
+      "phase": 0,
+      "id": 348,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 58671
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 349,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 58396,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719636549505074/sandiego85.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#3F2021",
+          "#E35205"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1986,
+      "phase": 0,
+      "id": 350,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 58433,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719662617100288/sandiego86.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 351,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 59022
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 352,
+      "info": {
+        "tid": 20,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719694120525864/sandiego90.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 353,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 59254,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719717558296727/sandiego91.png",
+        "jersey": "baseball3:hat",
+        "colors": [
+          "#FFFFFF",
+          "#0C2340",
+          "#E35205"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 354,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 59700,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719745051967568/sandiego92.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 355,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 59411
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 356,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 46510
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 357,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 47972
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 358,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 49639
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 359,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 59771
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 360,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 67544
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 361,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 66307,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719780003090563/sandiego99.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 362,
+      "info": {
+        "tid": 20,
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#0C2340",
+          "#E35205"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 363,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 63890
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 364,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 42445,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719810944475236/sandiego04.png",
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#0C2340",
+          "#B3A369"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 365,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 42691
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 366,
+      "info": {
+        "tid": 20,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719832515776522/sandiego11.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 367,
+      "info": {
+        "tid": 20,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719855060176986/sandiego12.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#0C2340",
+          "#B3A369"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 368,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 42524
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 369,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 42302
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 370,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 41164
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 371,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 40162
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 372,
+      "info": {
+        "tid": 20,
+        "stadiumCapacity": 40209
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 373,
+      "info": {
+        "tid": 20,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127719884940378163/sandiego20.png",
+        "jersey": "baseball3:hat3",
+        "colors": [
+          "#FFFFFF",
+          "#693F23",
+          "#FFCD00"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 374,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 58000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "id": 375,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 58000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "id": 376,
+      "info": {
+        "tid": 21,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720131028602900/sanfrancisco80.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "id": 377,
+      "info": {
+        "tid": 21,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720156223782922/sanfrancisco83.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "id": 378,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 62000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 379,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 58000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 380,
+      "info": {
+        "tid": 21,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720186275954728/sanfrancisco94.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 381,
+      "info": {
+        "tid": 21,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720220874776606/sanfrancisco00.png",
+        "stadiumCapacity": 40930
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 382,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 41059
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 383,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 41503
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 384,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 41584
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 385,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 41606
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 386,
+      "info": {
+        "tid": 21,
+        "stadiumCapacity": 41915
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 387,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 59438,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720273647517747/seattle81.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 388,
+      "info": {
+        "tid": 24,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720296556802129/seattle87.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#002878",
+          "#FFCC00"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "id": 389,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 58850
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 390,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 57748
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "id": 391,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 57748,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720319268950148/seattle93.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#002A5C",
+          "#006C68"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 392,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 59166
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 393,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47116
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 394,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47447
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 395,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47878
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 396,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47860
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 397,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47476
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "id": 398,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47574
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 399,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47943
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 400,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47715
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 401,
+      "info": {
+        "tid": 24,
+        "stadiumCapacity": 47929
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "id": 402,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 50222
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "id": 403,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 53138
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 404,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 54727
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 405,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 56227
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1992,
+      "phase": 0,
+      "id": 406,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 56627
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "id": 407,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 57078
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 408,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 57673
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 409,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 49676
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 410,
+      "info": {
+        "tid": 22,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720346066358392/stlouis98.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 411,
+      "info": {
+        "tid": 22,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720346066358392/stlouis98.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 412,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 50354
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 413,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 50345
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 414,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 43975
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 415,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 45399
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "id": 416,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 45538
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 417,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 45529
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 418,
+      "info": {
+        "tid": 22,
+        "stadiumCapacity": 44383
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 419,
+      "info": {
+        "tid": 29,
+        "stadiumCapacity": 44027
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 420,
+      "info": {
+        "tid": 29,
+        "stadiumCapacity": 44445,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720425921712138/tampabay01.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#004638",
+          "#002B73"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 421,
+      "info": {
+        "tid": 29,
+        "stadiumCapacity": 43772
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 422,
+      "info": {
+        "tid": 29,
+        "stadiumCapacity": 38437
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 423,
+      "info": {
+        "tid": 29,
+        "region": "Tampa Bay",
+        "name": "Rays",
+        "abbrev": "TBR",
+        "stadiumCapacity": 36048,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720459060908042/tampabay08.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#092C5C",
+          "#092C5C"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 424,
+      "info": {
+        "tid": 29,
+        "stadiumCapacity": 36973
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 425,
+      "info": {
+        "tid": 29,
+        "stadiumCapacity": 34078
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 426,
+      "info": {
+        "tid": 29,
+        "stadiumCapacity": 31042
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "id": 427,
+      "info": {
+        "tid": 29,
+        "stadiumCapacity": 25000,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720481315893248/tampabay19.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1978,
+      "phase": 0,
+      "id": 428,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 41097
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "id": 429,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 41284,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720503969321121/texas81.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "id": 430,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720524307505273/texas82.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1984,
+      "phase": 0,
+      "id": 431,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720541789364355/texas84.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1985,
+      "phase": 0,
+      "id": 432,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 43508
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "id": 433,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 43521
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 434,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 49292,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720565529120849/texas94.png",
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#BD032B",
+          "#002C74"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 435,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 49178
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 436,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 49166
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 437,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 49115
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 438,
+      "info": {
+        "tid": 23,
+        "jersey": "baseball:hat",
+        "colors": [
+          "#FFFFFF",
+          "#BD032B",
+          "#002C74"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 439,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720588207730870/texas03.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "id": 440,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 48911
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2009,
+      "phase": 0,
+      "id": 441,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 49170
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 442,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 48194
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 443,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 48114
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "id": 444,
+      "info": {
+        "tid": 23,
+        "stadiumCapacity": 40300
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1978,
+      "phase": 0,
+      "id": 445,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 43737
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "id": 446,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 50516
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 447,
+      "info": {
+        "tid": 25,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720646697287730/toronto97.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 448,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 45100
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "id": 449,
+      "info": {
+        "tid": 25,
+        "jersey": "baseball2:hat",
+        "colors": [
+          "#FFFFFF",
+          "#002F70",
+          "#006CAB"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "id": 450,
+      "info": {
+        "tid": 25,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720679509340313/toronto03.png",
+        "stadiumCapacity": 50516
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 451,
+      "info": {
+        "tid": 25,
+        "imgURL": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720700564746320/toronto04.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "id": 452,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 50598
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 453,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 48900
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 454,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 49539
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 455,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 49260
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "id": 456,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": "https://cdn.discordapp.com/attachments/1126281980749820046/1127720722555486308/toronto12.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 457,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 49282
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 458,
+      "info": {
+        "tid": 25,
+        "stadiumCapacity": 41500
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1981,
+      "phase": 0,
+      "id": 459,
+      "info": {
+        "playoffsNumTeamsDiv": 2,
+        "numGamesPlayoffSeries": [
+          5,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1982,
+      "phase": 0,
+      "id": 460,
+      "info": {
+        "playoffsNumTeamsDiv": 1,
+        "numGamesPlayoffSeries": [
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1985,
+      "phase": 0,
+      "id": 461,
+      "info": {
+        "playoffsNumTeamsDiv": 1,
+        "numGamesPlayoffSeries": [
+          7,
+          7
+        ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1994,
+      "phase": 0,
+      "id": 462,
+      "info": {
+        "playoffsNumTeamsDiv": 1,
+        "numGamesPlayoffSeries": [
+          5,
+          7,
+          7
+        ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2012,
+      "phase": 0,
+      "id": 463,
+      "info": {
+        "playoffsNumTeamsDiv": 1,
+        "numGamesPlayoffSeries": [
+          1,
+          5,
+          7,
+          7
+        ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2022,
+      "phase": 0,
+      "id": 464,
+      "info": {
+        "numPlayoffByes": 2,
+        "playoffsNumTeamsDiv": 1,
+        "numGamesPlayoffSeries": [
+          3,
+          5,
+          7,
+          7
+        ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1994,
+      "phase": 0,
+      "id": 465,
+      "info": {
+        "numGamesDiv": 78,
+        "confs": [
+          {
+            "cid": 0,
+            "name": "American League"
+          },
+          {
+            "cid": 1,
+            "name": "National League"
+          }
+        ],
+        "divs": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "AL East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "AL Central"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "AL West"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "NL East"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "NL Central"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "NL West"
+          }
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 466,
+      "info": {
+        "tid": 0,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 467,
+      "info": {
+        "tid": 1,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 468,
+      "info": {
+        "tid": 2,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 469,
+      "info": {
+        "tid": 3,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 470,
+      "info": {
+        "tid": 4,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 471,
+      "info": {
+        "tid": 5,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 472,
+      "info": {
+        "tid": 6,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 473,
+      "info": {
+        "tid": 7,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 474,
+      "info": {
+        "tid": 8,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 475,
+      "info": {
+        "tid": 9,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 476,
+      "info": {
+        "tid": 10,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 477,
+      "info": {
+        "tid": 11,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 478,
+      "info": {
+        "tid": 12,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 479,
+      "info": {
+        "tid": 13,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 480,
+      "info": {
+        "tid": 14,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 481,
+      "info": {
+        "tid": 15,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 482,
+      "info": {
+        "tid": 16,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 483,
+      "info": {
+        "tid": 17,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 484,
+      "info": {
+        "tid": 18,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 485,
+      "info": {
+        "tid": 19,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 486,
+      "info": {
+        "tid": 20,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 487,
+      "info": {
+        "tid": 21,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 488,
+      "info": {
+        "tid": 22,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 489,
+      "info": {
+        "tid": 23,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 490,
+      "info": {
+        "tid": 24,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 491,
+      "info": {
+        "tid": 25,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 492,
+      "info": {
+        "tid": 26,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "id": 493,
+      "info": {
+        "tid": 27,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 494,
+      "info": {
+        "tid": 8,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 495,
+      "info": {
+        "tid": 12,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 496,
+      "info": {
+        "tid": 9,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2013,
+      "phase": 0,
+      "id": 497,
+      "info": {
+        "numGamesDiv": 76
+      }
+    }
+  ]
+}
