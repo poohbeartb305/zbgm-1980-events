@@ -9,7 +9,7 @@
       "tid": 0,
       "cid": 1,
       "did": 3,
-      "imgURL": "https://imgur.com/Pz2Ff20.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/atlanta80.png",
       "stadiumCapacity": 52194,
       "jersey": "baseball:hat",
       "colors": [
@@ -27,7 +27,7 @@
       "tid": 1,
       "cid": 0,
       "did": 0,
-      "imgURL": "https://imgur.com/YlwuoH8.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/baltimore80.png",
       "jersey": "baseball4:hat3",
       "colors": [
         "#161618",
@@ -44,7 +44,7 @@
       "tid": 2,
       "cid": 0,
       "did": 0,
-      "imgURL": "https://imgur.com/1ojN2x8.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/boston80.png",
       "jersey": "baseball2:hat",
       "colors": [
         "#FFFFFF",
@@ -61,7 +61,7 @@
       "tid": 3,
       "cid": 0,
       "did": 1,
-      "imgURL": "https://imgur.com/CUfd4FU.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/angels80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -78,7 +78,7 @@
       "tid": 4,
       "cid": 1,
       "did": 2,
-      "imgURL": "https://imgur.com/byVn0eC.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/chicagocubs80.png",
       "jersey": "baseball3:hat",
       "colors": [
         "#FFFFFF",
@@ -95,7 +95,7 @@
       "tid": 5,
       "cid": 0,
       "did": 1,
-      "imgURL": "https://imgur.com/5EwGyLy.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/chicagowhitesox80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -112,7 +112,7 @@
       "tid": 6,
       "cid": 1,
       "did": 3,
-      "imgURL": "https://imgur.com/n8qysUN.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/cincinnat80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -129,7 +129,7 @@
       "tid": 7,
       "cid": 0,
       "did": 0,
-      "imgURL": "https://imgur.com/wdA8Kbz.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/cleveland80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -146,7 +146,7 @@
       "tid": 8,
       "cid": 0,
       "did": 0,
-      "imgURL": "https://imgur.com/vETiJHJ.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/detroit80.png",
       "jersey": "baseball2:hat",
       "colors": [
         "#FFFFFF",
@@ -163,7 +163,7 @@
       "tid": 9,
       "cid": 1,
       "did": 3,
-      "imgURL": "https://imgur.com/m3mVlTe.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/houston80.png",
       "jersey": "baseball2:hat3",
       "colors": [
         "#FFFFFF",
@@ -180,7 +180,7 @@
       "tid": 10,
       "cid": 0,
       "did": 1,
-      "imgURL": "https://imgur.com/7wQMhJn.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/kansascity80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#67ACE6",
@@ -197,7 +197,7 @@
       "tid": 11,
       "cid": 1,
       "did": 3,
-      "imgURL": "https://imgur.com/EGrK0jR.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/dodgers80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -214,7 +214,7 @@
       "tid": 12,
       "cid": 0,
       "did": 0,
-      "imgURL": "https://imgur.com/kOydWm4.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/milwaukee80.png",
       "jersey": "baseball3:hat",
       "colors": [
         "#FFFFFF",
@@ -231,7 +231,7 @@
       "tid": 13,
       "cid": 0,
       "did": 1,
-      "imgURL": "https://imgur.com/R2nKKBu.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/minnesota80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -248,7 +248,7 @@
       "tid": 14,
       "cid": 1,
       "did": 2,
-      "imgURL": "https://imgur.com/8tjcexb.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/montreal80.png",
       "jersey": "baseball:hat3",
       "colors": [
         "#FFFFFF",
@@ -265,7 +265,7 @@
       "tid": 15,
       "cid": 1,
       "did": 2,
-      "imgURL": "https://imgur.com/mT7i19R.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/mets80.png",
       "jersey": "baseball3:hat",
       "colors": [
         "#FFFFFF",
@@ -282,7 +282,7 @@
       "tid": 16,
       "cid": 0,
       "did": 0,
-      "imgURL": "https://imgur.com/f7PurtW.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/yankees80.png",
       "jersey": "baseball3:hat",
       "colors": [
         "#FFFFFF",
@@ -299,7 +299,7 @@
       "tid": 17,
       "cid": 0,
       "did": 1,
-      "imgURL": "https://imgur.com/h8dbfGu.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/oakland80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -316,7 +316,7 @@
       "tid": 18,
       "cid": 1,
       "did": 2,
-      "imgURL": "https://imgur.com/rd2ANBn.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/philadelphia80.png",
       "jersey": "baseball3:hat",
       "colors": [
         "#FFFFFF",
@@ -333,7 +333,7 @@
       "tid": 19,
       "cid": 1,
       "did": 2,
-      "imgURL": "https://imgur.com/vgJhjK9.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/pittsburgh80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -350,7 +350,7 @@
       "tid": 20,
       "cid": 1,
       "did": 3,
-      "imgURL": "https://imgur.com/t90WA3k.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/sandiego80.png",
       "jersey": "baseball:hat3",
       "colors": [
         "#FFFFFF",
@@ -367,7 +367,7 @@
       "tid": 21,
       "cid": 1,
       "did": 3,
-      "imgURL": "https://imgur.com/TCl4OoK.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/sanfrancisco80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -384,7 +384,7 @@
       "tid": 22,
       "cid": 0,
       "did": 1,
-      "imgURL": "https://imgur.com/1ZCgbD4.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/seattle80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -401,7 +401,7 @@
       "tid": 23,
       "cid": 1,
       "did": 2,
-      "imgURL": "https://imgur.com/5Hty8E9.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/stlouis80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -418,7 +418,7 @@
       "tid": 24,
       "cid": 0,
       "did": 1,
-      "imgURL": "https://imgur.com/lo4iUTn.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/texas80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -435,7 +435,7 @@
       "tid": 25,
       "cid": 0,
       "did": 0,
-      "imgURL": "https://imgur.com/C0JKjUH.png",
+      "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/1980%20MLB/toronto80.png",
       "jersey": "baseball:hat",
       "colors": [
         "#FFFFFF",
@@ -559,7 +559,7 @@
             "tid": 26,
             "cid": 1,
             "did": 3,
-            "imgURL": "https://imgur.com/M2mBn3Q.png",
+            "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/colorado93.png",
             "jersey": "baseball3:hat",
             "colors": [
               "#FFFFFF",
@@ -576,7 +576,7 @@
             "tid": 27,
             "cid": 1,
             "did": 2,
-            "imgURL": "https://imgur.com/HqBqeqt.png",
+            "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/marlins93.png",
             "jersey": "baseball3:hat",
             "colors": [
               "#FFFFFF",
@@ -603,7 +603,7 @@
             "tid": 28,
             "cid": 1,
             "did": 5,
-            "imgURL": "https://imgur.com/gcA4tHC.png",
+            "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/arizona98.png",
             "jersey": "baseball3:hat",
             "colors": [
               "#FFFFFF",
@@ -620,7 +620,7 @@
             "tid": 29,
             "cid": 0,
             "did": 0,
-            "imgURL": "https://imgur.com/GCWomHN.png",
+            "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/tampabay98.png",
             "jersey": "baseball:hat",
             "colors": [
               "#FFFFFF",
@@ -646,7 +646,7 @@
       "phase": 0,
       "info": {
         "tid": 28,
-        "imgURL": "https://imgur.com/xlFnzRG.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/arizona07.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -688,7 +688,7 @@
       "phase": 0,
       "info": {
         "tid": 28,
-        "imgURL": "https://imgur.com/pHJAhXb.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/arizona12.png"
       }
     },
     {
@@ -748,7 +748,7 @@
       "phase": 0,
       "info": {
         "tid": 28,
-        "imgURL": "https://imgur.com/QX34MAW.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/arizona24.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -782,7 +782,7 @@
       "info": {
         "tid": 0,
         "stadiumCapacity": 53046,
-        "imgURL": "https://imgur.com/o5Hi8uL.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/atlanta85.png"
       }
     },
     {
@@ -801,7 +801,7 @@
       "info": {
         "tid": 0,
         "stadiumCapacity": 52003,
-        "imgURL": "https://imgur.com/dnM6Iu9.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/atlanta87.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -971,7 +971,7 @@
       "info": {
         "tid": 1,
         "stadiumCapacity": 48041,
-        "imgURL": "https://imgur.com/0Z3x8gK.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/baltimore92.png"
       }
     },
     {
@@ -980,7 +980,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://imgur.com/ajhhvyC.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/baltimore95.png"
       }
     },
     {
@@ -998,7 +998,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://imgur.com/ygFwhzN.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/baltimore98.png"
       }
     },
     {
@@ -1007,7 +1007,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://imgur.com/MoHUdGe.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/baltimore99.png"
       }
     },
     {
@@ -1034,7 +1034,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://imgur.com/qYG6seP.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/baltimore09.png"
       }
     },
     {
@@ -1052,7 +1052,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://imgur.com/MfQXsbE.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/baltimore19.png"
       }
     },
     {
@@ -1198,7 +1198,7 @@
       "info": {
         "tid": 2,
         "stadiumCapacity": 36984,
-        "imgURL": "https://imgur.com/askAEL3.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/boston09.png"
       }
     },
     {
@@ -1280,7 +1280,7 @@
       "info": {
         "tid": 3,
         "stadiumCapacity": 64573,
-        "imgURL": "https://imgur.com/CN043jB.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/angels86.png"
       }
     },
     {
@@ -1298,7 +1298,7 @@
       "phase": 0,
       "info": {
         "tid": 3,
-        "imgURL": "https://imgur.com/Q8fFkaB.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/angels93.png"
       }
     },
     {
@@ -1307,7 +1307,7 @@
       "phase": 0,
       "info": {
         "tid": 3,
-        "imgURL": "https://imgur.com/LtdK9Ro.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/angels94.png"
       }
     },
     {
@@ -1320,7 +1320,7 @@
         "name": "Angels",
         "abbrev": "ANA",
         "stadiumCapacity": 33851,
-        "imgURL": "https://imgur.com/bjDTHUU.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/angels97.png",
         "jersey": "baseball3:hat",
         "colors": [
           "#FFFFFF",
@@ -1348,7 +1348,7 @@
         "name": "Angels",
         "abbrev": "LAA",
         "stadiumCapacity": 45050,
-        "imgURL": "https://imgur.com/pTQPOZP.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/angels02.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -1633,7 +1633,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://imgur.com/UKtwj5U.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/whitesox82.png"
       }
     },
     {
@@ -1660,7 +1660,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://imgur.com/Ls8fp88.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/whitesox87.png"
       }
     },
     {
@@ -1688,7 +1688,7 @@
       "info": {
         "tid": 5,
         "stadiumCapacity": 44321,
-        "imgURL": "https://imgur.com/qlp2k7k.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/whitesox91.png",
         "jersey": "baseball3:hat",
         "colors": [
           "#FFFFFF",
@@ -1748,7 +1748,7 @@
       "phase": 0,
       "info": {
         "tid": 6,
-        "imgURL": "https://imgur.com/mJtN8Kp.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/cincinnati93.png",
         "jersey": "baseball3:hat",
         "colors": [
           "#FFFFFF",
@@ -1763,7 +1763,7 @@
       "phase": 0,
       "info": {
         "tid": 6,
-        "imgURL": "https://imgur.com/ws3UKKN.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/cincinnati99.png"
       }
     },
     {
@@ -1966,7 +1966,7 @@
       "info": {
         "tid": 7,
         "stadiumCapacity": 42241,
-        "imgURL": "https://imgur.com/QK96io8.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/cleveland13.png"
       }
     },
     {
@@ -2033,7 +2033,7 @@
         "name": "Cleveland",
         "region": "Guardians",
         "abbrev": "CLE",
-        "imgURL": "https://imgur.com/iqqmhFk.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/cleveland21.png"
       }
     },
     {
@@ -2096,7 +2096,7 @@
       "phase": 0,
       "info": {
         "tid": 26,
-        "imgURL": "https://imgur.com/AgMoDE8.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/colorado17.png"
       }
     },
     {
@@ -2141,7 +2141,7 @@
       "phase": 0,
       "info": {
         "tid": 8,
-        "imgURL": "https://imgur.com/9HLBmFy.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/detroit94.png"
       }
     },
     {
@@ -2177,7 +2177,7 @@
       "phase": 0,
       "info": {
         "tid": 8,
-        "imgURL": "https://imgur.com/DGHTT9c.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/detroit06.png"
       }
     },
     {
@@ -2223,7 +2223,7 @@
       "info": {
         "tid": 8,
         "stadiumCapacity": 41297,
-        "imgURL": "https://imgur.com/OTrXBXT.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/detroit16.png"
       }
     },
     {
@@ -2317,7 +2317,7 @@
         "name": "Marlins",
         "abbrev": "MIA",
         "stadiumCapacity": 36742,
-        "imgURL": "https://imgur.com/06gQgpq.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/marlins12.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -2332,7 +2332,7 @@
       "phase": 0,
       "info": {
         "tid": 27,
-        "imgURL": "https://imgur.com/HIpAxDv.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/marlins19.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -2388,7 +2388,7 @@
       "phase": 0,
       "info": {
         "tid": 9,
-        "imgURL": "https://imgur.com/qi2W65E.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/houston94.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -2404,7 +2404,7 @@
       "info": {
         "tid": 9,
         "stadiumCapacity": 54370,
-        "imgURL": "https://imgur.com/ms8Hg5U.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/houston95.png"
       }
     },
     {
@@ -2414,7 +2414,7 @@
       "info": {
         "tid": 9,
         "stadiumCapacity": 40950,
-        "imgURL": "https://imgur.com/ikXl5ih.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/houston00.png",
         "jersey": "baseball3:hat",
         "colors": [
           "#FFFFFF",
@@ -2457,7 +2457,7 @@
       "info": {
         "tid": 9,
         "stadiumCapacity": 42060,
-        "imgURL": "https://imgur.com/JBgfYJ0.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/houston13.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -2500,7 +2500,7 @@
       "phase": 0,
       "info": {
         "tid": 10,
-        "imgURL": "https://imgur.com/VjlnYWt.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/kansascity86.png"
       }
     },
     {
@@ -2509,7 +2509,7 @@
       "phase": 0,
       "info": {
         "tid": 10,
-        "imgURL": "https://imgur.com/ChsPPJT.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/kansascity93.png"
       }
     },
     {
@@ -2554,7 +2554,7 @@
       "phase": 0,
       "info": {
         "tid": 10,
-        "imgURL": "https://imgur.com/U0P98pq.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/kansascity19.png"
       }
     },
     {
@@ -2563,7 +2563,7 @@
       "phase": 0,
       "info": {
         "tid": 11,
-        "imgURL": "https://imgur.com/0mxG6Z0.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/dodgers12.png"
       }
     },
     {
@@ -2581,7 +2581,7 @@
       "phase": 0,
       "info": {
         "tid": 12,
-        "imgURL": "https://imgur.com/K4PnMFZ.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/milwaukee94.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -2596,7 +2596,7 @@
       "phase": 0,
       "info": {
         "tid": 12,
-        "imgURL": "https://imgur.com/fuP5BhO.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/milwaukee00.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -2620,7 +2620,7 @@
       "phase": 0,
       "info": {
         "tid": 12,
-        "imgURL": "https://imgur.com/70UNv2s.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/milwaukee20.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -2662,7 +2662,7 @@
       "phase": 0,
       "info": {
         "tid": 13,
-        "imgURL": "https://imgur.com/bPiWICV.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/minnesota87.png",
         "jersey": "baseball3:hat",
         "colors": [
           "#FFFFFF",
@@ -2686,7 +2686,7 @@
       "phase": 0,
       "info": {
         "tid": 13,
-        "imgURL": "https://imgur.com/uTDO2iw.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/minnesota94.png"
       }
     },
     {
@@ -2732,7 +2732,7 @@
       "phase": 0,
       "info": {
         "tid": 13,
-        "imgURL": "https://imgur.com/1AmRMNg.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/minnesota10.png",
         "stadiumCapacity": 39504
       }
     },
@@ -2801,7 +2801,7 @@
       "phase": 0,
       "info": {
         "tid": 13,
-        "imgURL": "https://imgur.com/hXQg92E.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/minnesota22.png"
       }
     },
     {
@@ -2811,7 +2811,7 @@
       "info": {
         "tid": 14,
         "stadiumCapacity": 46000,
-        "imgURL": "https://imgur.com/IRXPMaO.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/montreal92.png",
         "jersey": "baseball3:hat",
         "colors": [
           "#FFFFFF",
@@ -2831,7 +2831,7 @@
         "pop": 4.1,
         "stadiumCapacity": 45596,
         "tid": 14,
-        "imgURL": "https://imgur.com/NBjwiVt.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/washington05.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -2855,7 +2855,7 @@
       "phase": 0,
       "info": {
         "tid": 14,
-        "imgURL": "https://imgur.com/waIYEVn.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/washington11.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -2902,7 +2902,7 @@
       "phase": 0,
       "info": {
         "tid": 15,
-        "imgURL": "https://imgur.com/golEuIr.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/mets81.png"
       }
     },
     {
@@ -2920,7 +2920,7 @@
       "phase": 0,
       "info": {
         "tid": 15,
-        "imgURL": "https://imgur.com/aeDoa5U.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/mets93.png"
       }
     },
     {
@@ -3040,7 +3040,7 @@
       "phase": 0,
       "info": {
         "tid": 16,
-        "imgURL": "https://imgur.com/5m6zPnn.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/yankees81.png"
       }
     },
     {
@@ -3148,7 +3148,7 @@
       "phase": 0,
       "info": {
         "tid": 17,
-        "imgURL": "https://imgur.com/hTqCfau.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/oakland82.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -3250,7 +3250,7 @@
       "phase": 0,
       "info": {
         "tid": 17,
-        "imgURL": "https://imgur.com/dbuphhu.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/oakland93.png"
       }
     },
     {
@@ -3314,7 +3314,7 @@
       "info": {
         "tid": 18,
         "stadiumCapacity": 65454,
-        "imgURL": "https://imgur.com/LIHD9yR.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/philadelphia81.png"
       }
     },
     {
@@ -3323,7 +3323,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://imgur.com/tgYDDXU.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/philadephia82.png"
       }
     },
     {
@@ -3377,7 +3377,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://imgur.com/CjpB2jM.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/philadephia92.png"
       }
     },
     {
@@ -3477,7 +3477,7 @@
       "info": {
         "tid": 18,
         "stadiumCapacity": 42792,
-        "imgURL": "https://imgur.com/i0JXnQ4.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/philadephia19.png"
       }
     },
     {
@@ -3540,7 +3540,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://imgur.com/UCLT8rb.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/pittsburgh87.png"
       }
     },
     {
@@ -3576,7 +3576,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://imgur.com/XqG5tKN.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/pittsburgh97.png"
       }
     },
     {
@@ -3612,7 +3612,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://imgur.com/Wpci9te.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/pittsburgh14.png"
       }
     },
     {
@@ -3658,7 +3658,7 @@
       "info": {
         "tid": 20,
         "stadiumCapacity": 58396,
-        "imgURL": "https://imgur.com/Qvmqxxe.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego85.png",
         "jersey": "baseball3:hat",
         "colors": [
           "#FFFFFF",
@@ -3674,7 +3674,7 @@
       "info": {
         "tid": 20,
         "stadiumCapacity": 58433,
-        "imgURL": "https://imgur.com/tZ9WLdW.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego86.png"
       }
     },
     {
@@ -3692,7 +3692,7 @@
       "phase": 0,
       "info": {
         "tid": 20,
-        "imgURL": "https://imgur.com/tLVNr11.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego90.png"
       }
     },
     {
@@ -3702,7 +3702,7 @@
       "info": {
         "tid": 20,
         "stadiumCapacity": 59254,
-        "imgURL": "https://imgur.com/KGdniZP.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego91.png",
         "jersey": "baseball3:hat",
         "colors": [
           "#FFFFFF",
@@ -3718,7 +3718,7 @@
       "info": {
         "tid": 20,
         "stadiumCapacity": 59700,
-        "imgURL": "https://imgur.com/xyQTYkn.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego92.png"
       }
     },
     {
@@ -3782,7 +3782,7 @@
       "info": {
         "tid": 20,
         "stadiumCapacity": 66307,
-        "imgURL": "https://imgur.com/7O9OS7S.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego99.png"
       }
     },
     {
@@ -3815,7 +3815,7 @@
       "info": {
         "tid": 20,
         "stadiumCapacity": 42445,
-        "imgURL": "https://imgur.com/h5OA12F.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego04.png",
         "jersey": "baseball:hat",
         "colors": [
           "#FFFFFF",
@@ -3839,7 +3839,7 @@
       "phase": 0,
       "info": {
         "tid": 20,
-        "imgURL": "https://imgur.com/Gp1tiSm.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego11.png"
       }
     },
     {
@@ -3849,7 +3849,7 @@
       "id": 367,
       "info": {
         "tid": 20,
-        "imgURL": "https://imgur.com/7zH5jq1.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego12.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -3909,7 +3909,7 @@
       "phase": 0,
       "info": {
         "tid": 20,
-        "imgURL": "https://imgur.com/FzLlLBf.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sandiego20.png",
         "jersey": "baseball3:hat3",
         "colors": [
           "#FFFFFF",
@@ -3924,7 +3924,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://imgur.com/a0J9tiS.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sanfrancisco83.png"
       }
     },
     {
@@ -3951,7 +3951,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://imgur.com/RhTrw6j.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sanfrancisco94.png"
       }
     },
     {
@@ -3960,7 +3960,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://imgur.com/ZB9qTuM.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/sanfrancisco00.png",
         "stadiumCapacity": 40930
       }
     },
@@ -4016,7 +4016,7 @@
       "info": {
         "tid": 22,
         "stadiumCapacity": 59438,
-        "imgURL": "https://imgur.com/wKQUsyV.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/seattle81.png"
       }
     },
     {
@@ -4025,7 +4025,7 @@
       "phase": 0,
       "info": {
         "tid": 22,
-        "imgURL": "https://imgur.com/lSJNMnk.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/seattle87.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -4059,7 +4059,7 @@
       "info": {
         "tid": 22,
         "stadiumCapacity": 57748,
-        "imgURL": "https://imgur.com/ehnV7AZ.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/seattle93.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -4236,7 +4236,7 @@
       "phase": 0,
       "info": {
         "tid": 23,
-        "imgURL": "https://imgur.com/OQ89qFD.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/stlouis98.png"
       }
     },
     {
@@ -4245,7 +4245,7 @@
       "phase": 0,
       "info": {
         "tid": 23,
-        "imgURL": "https://imgur.com/jcBwdn9.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/stlouis99.png"
       }
     },
     {
@@ -4344,7 +4344,7 @@
       "phase": 0,
       "info": {
         "tid": 29,
-        "imgURL": "https://imgur.com/zt4zLFq.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/tampabay01.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -4381,7 +4381,7 @@
         "name": "Rays",
         "abbrev": "TBR",
         "stadiumCapacity": 36048,
-        "imgURL": "https://imgur.com/gC15bPg.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/tampabay08.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -4424,7 +4424,7 @@
       "info": {
         "tid": 29,
         "stadiumCapacity": 25025,
-        "imgURL": "https://imgur.com/TKKKPZq.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/tampabay19.png"
       }
     },
     {
@@ -4434,7 +4434,7 @@
       "info": {
         "tid": 24,
         "stadiumCapacity": 41284,
-        "imgURL": "https://imgur.com/gGUp4qx.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/texas81.png"
       }
     },
     {
@@ -4443,7 +4443,7 @@
       "phase": 0,
       "info": {
         "tid": 24,
-        "imgURL": "https://imgur.com/Vlxp3L6.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/texas82.png"
       }
     },
     {
@@ -4452,7 +4452,7 @@
       "phase": 0,
       "info": {
         "tid": 24,
-        "imgURL": "https://imgur.com/9mLWmR1.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/texas84.png"
       }
     },
     {
@@ -4480,7 +4480,7 @@
       "info": {
         "tid": 24,
         "stadiumCapacity": 49292,
-        "imgURL": "https://imgur.com/ivi5cCV.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/texas94.png",
         "jersey": "baseball2:hat",
         "colors": [
           "#FFFFFF",
@@ -4536,7 +4536,7 @@
       "phase": 0,
       "info": {
         "tid": 24,
-        "imgURL": "https://imgur.com/WUu5sAu.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/texas03.png"
       }
     },
     {
@@ -4600,7 +4600,7 @@
       "phase": 0,
       "info": {
         "tid": 25,
-        "imgURL": "https://imgur.com/2vf9y7Z.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/toronto97.png"
       }
     },
     {
@@ -4632,7 +4632,7 @@
       "phase": 0,
       "info": {
         "tid": 25,
-        "imgURL": "https://imgur.com/CT3kySg.png",
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/toronto03.png",
         "stadiumCapacity": 50516
       }
     },
@@ -4642,7 +4642,7 @@
       "phase": 0,
       "info": {
         "tid": 25,
-        "imgURL": "https://imgur.com/OAz26U6.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/toronto04.png"
       }
     },
     {
@@ -4687,7 +4687,7 @@
       "phase": 0,
       "info": {
         "tid": 25,
-        "imgURL": "https://imgur.com/sHTWjvb.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/toronto12.png"
       }
     },
     {
@@ -4705,7 +4705,7 @@
       "phase": 0,
       "info": {
         "tid": 25,
-        "imgURL": "https://imgur.com/vGPhqGh.png"
+        "imgURL": "https://raw.githubusercontent.com/poohbeartb305/MyLogos/refs/heads/main/logos/MLB/Post%201980%20MLB/toronto19.png"
       }
     },
     {
