@@ -528,7 +528,7 @@
     ],
     "numSeasonsFutureDraftPicks": 4,
     "playoffsNumTeamsDiv": 1,
-    "aiTradesFactor": 0.55,
+    "aiTradesFactor": 0.90,
     "tradeDeadline": 0.6,
     "allStarGame": 0.7,
     "allStarNum": 24,
